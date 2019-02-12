@@ -34,9 +34,11 @@
 
 - "json-server": "0.14.2"
 
+---
+
 ## Live Demo
 
-### https://dutraneto.com/react-crud/frontend/build/
+### https://dutraneto.com/react-crud/frontend/build
 
 ---
 
