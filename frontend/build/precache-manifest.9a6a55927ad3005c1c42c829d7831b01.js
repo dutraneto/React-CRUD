@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/react-crud/frontend/build/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "40d1de3423d2c27f288a",
-    "url": "/react-crud/frontend/build/static/js/1.40d1de34.chunk.js"
+    "revision": "c0ea9bb33e9fca89403c",
+    "url": "/react-crud/frontend/build/static/js/1.c0ea9bb3.chunk.js"
   },
   {
     "revision": "adf70f5872511ef6a16b",
@@ -44,11 +44,11 @@ self.__precacheManifest = [
     "url": "/react-crud/frontend/build/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
-    "revision": "40d1de3423d2c27f288a",
-    "url": "/react-crud/frontend/build/static/css/1.efcf7da0.chunk.css"
+    "revision": "c0ea9bb33e9fca89403c",
+    "url": "/react-crud/frontend/build/static/css/1.d0d29531.chunk.css"
   },
   {
-    "revision": "98f252bf856fbc29605d1516d90cd18e",
+    "revision": "872f87293c9d13205e557f3eb5ecf3af",
     "url": "/react-crud/frontend/build/index.html"
   }
 ];
