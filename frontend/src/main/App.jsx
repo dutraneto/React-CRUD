@@ -6,13 +6,16 @@ import { HashRouter } from 'react-router-dom'
 import Routes from './Routes'
 import Logo from '../components/template/Logo'
 import Nav from '../components/template/Nav'
-import Home from '../components/home/Home'
 import Footer from '../components/template/Footer'
 
 export default props => 
-    <div className="app">
-        <Logo />
-        <Nav icon="home" info="info" contact="envelope-o" blog="globe" careers="star-o" users="users"/>
-        <Home />
-        <Footer />
-    </div>
+    <HashRouter>
+
+        <div className="app">
+            <Logo />
+            <Nav icon="home" info="info" contact="envelope-o" blog="globe" careers="star-o" users="users"/>
+            {/* <Home /> Changed by Routes */}
+            <Routes />
+            <Footer />
+        </div>
+    </HashRouter>
