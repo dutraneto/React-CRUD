@@ -1,36 +1,37 @@
 import React from 'react'
 import './NavItem.css'
+import { Link } from 'react-router-dom'
 
 export default props =>
     <ul className="">
         <li>
-            <a href="#/">
+            <Link to="/">
                 <i className={`fa fa-${props.icon}`}></i> Home
-            </a>
+            </Link>
         </li>
         <li>
-            <a href="#/users">
+            <Link to="/users">
                 <i className={`fa fa-${props.users}`}></i> Users
-            </a>
+            </Link>
         </li>
         <li>
-            <a href="">
+            <Link to="/contact">
                 <i className={`fa fa-${props.contact}`}></i> Contact
-            </a>
+            </Link>
         </li>
         <li>
-            <a href="">
+            <Link to="/blog">
                 <i className={`fa fa-${props.blog}`}></i> Visit out Blog
-            </a>
+            </Link>
         </li>
         <li>
-            <a href="">
+            <Link to="/careers">
                 <i className={`fa fa-${props.careers}`}></i> Careers
-            </a>
+            </Link>
         </li>
         <li>
-            <a href="">
+            <Link to="/info">
                 <i className={`fa fa-${props.info}`}></i> Client Testimonials
-            </a>
+            </Link>
         </li>
     </ul>
