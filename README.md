@@ -41,4 +41,4 @@
 ### https://dutraneto.com/react-crud/frontend/build
 
 ---
-
+*** need support for Safari
