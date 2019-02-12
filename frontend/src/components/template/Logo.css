@@ -1,0 +1,12 @@
+aside.logo {
+    height: var(--logo-height);
+    background-color: var(--bg-dark);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+aside.logo img {
+    height: 50px;
+    padding: 0 15px;
+}

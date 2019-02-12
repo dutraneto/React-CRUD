@@ -1,0 +1,13 @@
+{
+    "users": [
+        {
+        "id": 1,
+        "name": "King Arthur",
+        "email": "karthur@escalibur.com"
+    },  {
+        "id": 2,
+        "name": "Mona Lisa",
+        "email": "mona@lisa.com"
+
+    }]
+}
