@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Fabiana Dutra",
+      "email": "fabianacfdutra@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "France Medeiros",
+      "email": "contact@dutraneto.com",
+      "id": 3
+    },
+    {
+      "name": "Dutra Medeiros",
+      "email": "dutraneto@outlook.com",
+      "id": 4
+    }
+  ]
+}
