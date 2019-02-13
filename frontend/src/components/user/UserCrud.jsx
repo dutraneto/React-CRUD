@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Main from '../template/Main'
-import URLS from '../../assets/js/url-api'
+import {JSONSERVER, URL} from '../../assets/js/url-api'
 import axios from 'axios'
 
 const headerProps = {
@@ -20,7 +20,7 @@ export default class UserCrud extends Component {
 
     // componentWillMount gets dbjson list
     componentWillMount() {
-        axios(URLS).then(res => {
+        axios(JSONSERVER).then(res => {
             this.setState({ list: res.data })
         })
     }
@@ -37,7 +37,7 @@ export default class UserCrud extends Component {
         // if it has userId => PUT else POST
         const method = user.id ? 'put' : 'post'
         // if user.id present => URL/user.id else URL
-        const url = user.id ? `${URLS}/${user.id}` : URLS
+        const url = user.id ? `${JSONSERVER}/${user.id}` : JSONSERVER
         // axios[method] is not dot notation method is not a methos it is a string
         axios[method](url, user)
             .then(res => {
@@ -117,7 +117,7 @@ export default class UserCrud extends Component {
     }
 
     remove(user) {
-        axios.delete(`${URLS}/${user.id}`).then(res => {
+        axios.delete(`${JSONSERVER}/${user.id}`).then(res => {
             const list = this.state.list.filter(u => u !== user)
             this.setState({ list })
         })
