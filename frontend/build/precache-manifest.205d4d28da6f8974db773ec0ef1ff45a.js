@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/react-crud/frontend/build/static/media/Roboto-Thin.89e2666c.ttf"
   },
   {
-    "revision": "842b3a37222f5089c88a",
-    "url": "/react-crud/frontend/build/static/css/main.e9f53826.chunk.css"
+    "revision": "38455c37164cd698aa82",
+    "url": "/react-crud/frontend/build/static/css/main.91c6b6f2.chunk.css"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
     "url": "/react-crud/frontend/build/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "c0ea9bb33e9fca89403c",
-    "url": "/react-crud/frontend/build/static/js/1.c0ea9bb3.chunk.js"
+    "revision": "2abadf842d0c7fde2069",
+    "url": "/react-crud/frontend/build/static/js/1.2abadf84.chunk.js"
   },
   {
     "revision": "adf70f5872511ef6a16b",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/react-crud/frontend/build/static/media/logo.8cd1c759.png"
   },
   {
-    "revision": "842b3a37222f5089c88a",
-    "url": "/react-crud/frontend/build/static/js/main.842b3a37.chunk.js"
+    "revision": "38455c37164cd698aa82",
+    "url": "/react-crud/frontend/build/static/js/main.38455c37.chunk.js"
   },
   {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
@@ -36,19 +36,19 @@ self.__precacheManifest = [
     "url": "/react-crud/frontend/build/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/react-crud/frontend/build/static/media/fontawesome-webfont.674f50d2.eot"
-  },
-  {
     "revision": "b06871f281fee6b241d60582ae9369b9",
     "url": "/react-crud/frontend/build/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
-    "revision": "c0ea9bb33e9fca89403c",
-    "url": "/react-crud/frontend/build/static/css/1.d0d29531.chunk.css"
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/react-crud/frontend/build/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
-    "revision": "872f87293c9d13205e557f3eb5ecf3af",
+    "revision": "2abadf842d0c7fde2069",
+    "url": "/react-crud/frontend/build/static/css/1.b21510cf.chunk.css"
+  },
+  {
+    "revision": "9e7ba821186b536d787c9b0770400d14",
     "url": "/react-crud/frontend/build/index.html"
   }
 ];

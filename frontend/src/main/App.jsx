@@ -11,7 +11,7 @@ import Footer from '../components/template/Footer'
 
 export default props => 
     // I can use both HashRouter or BrowserRouter
-    <BrowserRouter> 
+    <HashRouter> 
 
         <div className="app">
             <Logo />
@@ -20,4 +20,4 @@ export default props =>
             <Routes />
             <Footer />
         </div>
-    </BrowserRouter>
+    </HashRouter>
