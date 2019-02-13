@@ -6,32 +6,32 @@ export default props =>
     <ul className="">
         <li>
             <Link to="/">
-                <i className={`fa fa-${props.icon}`}></i> Home
+                <div className="d-flex"><i className={`fa fa-${props.icon}`}></i> <span>Home</span></div>
             </Link>
         </li>
         <li>
             <Link to="/users">
-                <i className={`fa fa-${props.users}`}></i> Users
+                <div><i className={`fa fa-${props.users}`}></i> <span>Users</span></div>
             </Link>
         </li>
         <li>
             <Link to="/contact">
-                <i className={`fa fa-${props.contact}`}></i> Contact
+                <div><i className={`fa fa-${props.contact}`}></i> <span>Contact</span></div>
             </Link>
         </li>
         <li>
             <Link to="/blog">
-                <i className={`fa fa-${props.blog}`}></i> Visit out Blog
+                <div><i className={`fa fa-${props.blog}`}></i> <span>Visit out Blog</span></div>
             </Link>
         </li>
         <li>
             <Link to="/careers">
-                <i className={`fa fa-${props.careers}`}></i> Careers
+                <div><i className={`fa fa-${props.careers}`}></i> <span>Careers</span></div>
             </Link>
         </li>
         <li>
             <Link to="/info">
-                <i className={`fa fa-${props.info}`}></i> Client Testimonials
+                <div><i className={`fa fa-${props.info}`}></i> <span>Client Testimonials</span></div>
             </Link>
         </li>
     </ul>

@@ -3,6 +3,6 @@ a {
     justify-content: flex-start;
     align-items: baseline;
 }
-i {
-    margin-right: 10px;
+div span {
+    margin-left: 10px;
 }
