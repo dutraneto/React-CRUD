@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/react-crud/frontend/build/static/media/Roboto-Thin.89e2666c.ttf"
   },
   {
-    "revision": "c529260f3a6b20a9a4b7",
-    "url": "/react-crud/frontend/build/static/css/main.b2f1957e.chunk.css"
+    "revision": "18127c66060186a7a6dc",
+    "url": "/react-crud/frontend/build/static/css/main.afb1df4c.chunk.css"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/react-crud/frontend/build/static/media/logo.8cd1c759.png"
   },
   {
-    "revision": "c529260f3a6b20a9a4b7",
-    "url": "/react-crud/frontend/build/static/js/main.c529260f.chunk.js"
+    "revision": "18127c66060186a7a6dc",
+    "url": "/react-crud/frontend/build/static/js/main.18127c66.chunk.js"
   },
   {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/react-crud/frontend/build/static/css/1.467231a7.chunk.css"
   },
   {
-    "revision": "30f76756a73706bab942b9dfc8157d52",
+    "revision": "d577d398ec604e59e38837e272094dcd",
     "url": "/react-crud/frontend/build/index.html"
   }
 ];
