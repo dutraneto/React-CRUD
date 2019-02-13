@@ -40,5 +40,6 @@
 
 ### https://dutraneto.com/react-crud/frontend/build
 
+#### The data is Fake
 ---
-*** need support for Safari
+
