@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/react-crud/frontend/build/static/media/Roboto-Thin.89e2666c.ttf"
   },
   {
-    "revision": "38455c37164cd698aa82",
+    "revision": "68db0a3cff07c6066f02",
     "url": "/react-crud/frontend/build/static/css/main.91c6b6f2.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/react-crud/frontend/build/static/media/logo.8cd1c759.png"
   },
   {
-    "revision": "38455c37164cd698aa82",
-    "url": "/react-crud/frontend/build/static/js/main.38455c37.chunk.js"
+    "revision": "68db0a3cff07c6066f02",
+    "url": "/react-crud/frontend/build/static/js/main.68db0a3c.chunk.js"
   },
   {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
@@ -36,19 +36,19 @@ self.__precacheManifest = [
     "url": "/react-crud/frontend/build/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "/react-crud/frontend/build/static/media/fontawesome-webfont.b06871f2.ttf"
-  },
-  {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/react-crud/frontend/build/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/react-crud/frontend/build/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
     "revision": "2abadf842d0c7fde2069",
     "url": "/react-crud/frontend/build/static/css/1.b21510cf.chunk.css"
   },
   {
-    "revision": "9e7ba821186b536d787c9b0770400d14",
+    "revision": "6fcb986430252f534ae060f679acffc4",
     "url": "/react-crud/frontend/build/index.html"
   }
 ];
