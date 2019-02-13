@@ -1,13 +1,24 @@
 {
-    "users": [
-        {
-        "id": 1,
-        "name": "King Arthur",
-        "email": "karthur@escalibur.com"
-    },  {
-        "id": 2,
-        "name": "Mona Lisa",
-        "email": "mona@lisa.com"
-
-    }]
+  "users": [
+    {
+      "id": 1,
+      "name": "King Arthur",
+      "email": "karthur@escalibur.com"
+    },
+    {
+      "id": 2,
+      "name": "Mona Lisa",
+      "email": "mona@lisa.com"
+    },
+    {
+      "name": "Fabiana Dutra",
+      "email": "fabianacfdutra@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Dutra Medeiros",
+      "email": "dutraneto@outlook.com",
+      "id": 4
+    }
+  ]
 }
