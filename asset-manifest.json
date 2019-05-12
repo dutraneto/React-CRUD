@@ -1,0 +1,18 @@
+{
+  "main.css": "/react-crud/frontend/build/static/css/main.afb1df4c.chunk.css",
+  "main.js": "/react-crud/frontend/build/static/js/main.c0c39ae7.chunk.js",
+  "main.js.map": "/react-crud/frontend/build/static/js/main.c0c39ae7.chunk.js.map",
+  "static/css/1.467231a7.chunk.css": "/react-crud/frontend/build/static/css/1.467231a7.chunk.css",
+  "static/js/1.127b35ad.chunk.js": "/react-crud/frontend/build/static/js/1.127b35ad.chunk.js",
+  "static/js/1.127b35ad.chunk.js.map": "/react-crud/frontend/build/static/js/1.127b35ad.chunk.js.map",
+  "runtime~main.js": "/react-crud/frontend/build/static/js/runtime~main.adf70f58.js",
+  "runtime~main.js.map": "/react-crud/frontend/build/static/js/runtime~main.adf70f58.js.map",
+  "static/media/logo.png": "/react-crud/frontend/build/static/media/logo.8cd1c759.png",
+  "static/media/font-awesome.min.css": "/react-crud/frontend/build/static/media/fontawesome-webfont.912ec66d.svg",
+  "static/media/index.css": "/react-crud/frontend/build/static/media/Roboto-Thin.89e2666c.ttf",
+  "static/css/main.afb1df4c.chunk.css.map": "/react-crud/frontend/build/static/css/main.afb1df4c.chunk.css.map",
+  "static/css/1.467231a7.chunk.css.map": "/react-crud/frontend/build/static/css/1.467231a7.chunk.css.map",
+  "index.html": "/react-crud/frontend/build/index.html",
+  "precache-manifest.488e6e8d7bc492b0d01678465af5358f.js": "/react-crud/frontend/build/precache-manifest.488e6e8d7bc492b0d01678465af5358f.js",
+  "service-worker.js": "/react-crud/frontend/build/service-worker.js"
+}
